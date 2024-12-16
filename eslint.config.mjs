@@ -16,6 +16,7 @@ const eslintConfig = [
       // Disable specific rules
       "@typescript-eslint/no-explicit-any": "off",
       "no-console": "off", // Example: Disable the no-console rule
+      "prefer-spread": "off",
     },
   },
 ];
